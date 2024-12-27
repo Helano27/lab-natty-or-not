@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo: Estamos realmente em uma Democracia?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Trata-se da um vídeo curto gerado por IA e que apresenta um reflexão sobre um episódio recente e lamentável ocorrido no Brasil
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Evenlabs - text to speech
+D-id - geração de vídeo a partir de um avatar e um áudio
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente foi digitado um texto curto no bloco de notas
+Em seguida o texto foi convertido em um arquivo de áudio (text to speech) no Evenlabs
+Por fim, foi selecionado um Avatar padrão no D-ID, foi enviado o arquivo de áudio e foi gerado um vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo abaixo é uma breve reflexzão sobre um lamentável e triste episódio ocorrido esta semana no Brasil
+
+https://www.youtube.com/watch?v=ddagZlRlwiM
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+As IA generativas realmente são uma tecnologia inovadora e que potencializam muito a criatividade humana.
 ```
 
 ### Exemplos e Insigths
